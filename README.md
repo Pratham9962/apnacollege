@@ -1,3 +1,4 @@
 # apnacollege
-this is my repo
-Athur - pratham
+this is my repo.
+<br>
+Authur - pratham
